@@ -1,6 +1,6 @@
 ## The Sparks Foundation
 
-### Data Science and Business Analytics Intern under GRIP (Graduate Rotational Internship Program ) August,21 
+### Data Science and Business Analytics Intern under GRIP (Graduate Rotational Internship Program ) August 2021 
  
 I have put all te tasks done by me during my internship at the sparks foundation. The various tasks revolve around different machine learning and data visualization concepts and their implementation on various datasets. The following were the area of concerns:
 * Data Preprocessing and Cleaning
