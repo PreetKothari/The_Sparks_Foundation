@@ -9,11 +9,15 @@ I have put all te tasks done by me during my internship at the sparks foundation
 * Model Evaluation
  
 The list of the tasks completed are as follows:
-### Task 1- Prediction using Supervised ML
+### Task 1 - Prediction using Supervised ML
 #### Dataset used:-http://bit.ly/w-data
 In this task, using simple Linear regression Algorithm the scores of a student were predicted based on the numberof hours he/she put in to study per day.
  
-### Task 2- Prediction using Unsupervised ML
+### Task 2 - Prediction using Unsupervised ML
 #### Dataset used:- https://bit.ly/3kXTdox
-In this task, KNN Algorithm was implemented to predict the optimum noumber of clusters using Elbow Method on the 'Iris' dataset. To get better essence of the data, various plots and visualizations were also used.
+In this task, KMeans Clustering Algorithm was implemented to predict the optimum noumber of clusters using Elbow Method on the 'Iris' dataset. To get better essence of the data, various plots and visualizations were also used.
+
+### Task 6 - Prediction using Decision Tree Algorithm
+#### Dataset used:- https://bit.ly/3kXTdox
+In this task, Decision Tree Classifier Algorithm was implemented to make predictions on the 'Iris' dataset. To get better essence of the data, various plots and visualizations were also used and finally the decision tree was also visualized. 
 
